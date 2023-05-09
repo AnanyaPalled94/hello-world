@@ -3,7 +3,7 @@
     <h1>Welcome to Devops automation</h1>
     <p>Please fill in this form to create an account.</p>
     <p> Welcome to Devops Tools
-      CICD Deployment successful.
+      CICD Deployment successfully completed.
     </p>
     <hr>
     <hr>
